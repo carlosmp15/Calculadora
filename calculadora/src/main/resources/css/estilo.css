@@ -1,0 +1,23 @@
+.button{
+    -fx-background-color:  #4A4A4A;
+}
+
+.button:hover{
+    -fx-background-color: #5F5F5F;
+}
+
+#btIgual{
+    -fx-background-color:  #FF3333;
+}
+
+#btIgual:hover{
+    -fx-background-color: #FF7777;
+}
+
+#pane{
+    -fx-background-color: #282828;
+}
+
+#ivBorrar:hover{
+    -fx-background-color: #5F5F5F;
+}
